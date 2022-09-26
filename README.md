@@ -7,7 +7,7 @@ AKQゲームの戦術アルゴリズムの優劣を競うため、アルゴリ�
 e.g.  `ruby AKQGame.rb Rand Honest`
 
 引数には対戦させる戦術アルゴリズムを指定します。
-戦術アルゴリズムは `Strategy` を継承したクラスで実装し、`strategies` ディレクトリ配下に配置します。
+戦術アルゴリズムは `Strategy` を継承したクラスで実装し、`strategies` ディレクトリ配下に配置します。(Rand.rb と Honest.rb が strategies に配置されています)
 
 
 # 今後の展望
